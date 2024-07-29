@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miro</h1>
-<h3 align="center">Currently in the second year in my IT school.</h3>
+<h3 align="center">Currently studying in the third year at my IT-School.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tatsumakeey&label=Profile%20views&color=0e75b6&style=flat" alt="tatsumakeey" /> </p>
 
